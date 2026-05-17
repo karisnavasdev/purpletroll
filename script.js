@@ -83,11 +83,11 @@
   }
 
   // ============================================================
-  // 3) BUY / SELL handlers — for $TROLL these all route to modal
+  // 3) BUY / SELL handlers — for $PTROLL these all route to modal
   //    (no live token yet). When it goes live, set BUY_URL + TG_URL
   //    and remove the data-coming-soon on those buttons.
   // ============================================================
-  const BUY_URL = 'https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=GyNThEeLEvnrUJu62nct1TErb33nE2gUiyM6tuGNpump';
+  const BUY_URL = 'https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=pumppump';
   const TG_URL  = 'https://t.me/purpletrollo';
 
   $$('[data-action="buy"]').forEach(b => {
