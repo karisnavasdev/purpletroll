@@ -1,5 +1,5 @@
 /* ============================================================
-   Purple Troll — interactions
+   PTROLL — interactions
    Depends on audio.js (window.DCAudio { SFX, speak, voice })
    ============================================================ */
 
