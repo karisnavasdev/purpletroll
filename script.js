@@ -87,7 +87,7 @@
   //    (no live token yet). When it goes live, set BUY_URL + TG_URL
   //    and remove the data-coming-soon on those buttons.
   // ============================================================
-  const BUY_URL = 'https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=pumppump';
+  const BUY_URL = 'https://jup.ag/swap?sell=So11111111111111111111111111111111111111112&buy=9FssA1B7EhdWCt7rT4RtovYbWdKg3gog1wpXWuqHpump';
   const TG_URL  = 'https://t.me/purpletrollo';
 
   $$('[data-action="buy"]').forEach(b => {
